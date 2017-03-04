@@ -1,0 +1,22 @@
+{
+  "name": "telelin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samx18/teleLin.git"
+  },
+  "author": "Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samx18/teleLin/issues"
+  },
+  "homepage": "https://github.com/samx18/teleLin#readme",
+  "dependencies": {
+    "uscis": "0.0.4"
+  }
+}
