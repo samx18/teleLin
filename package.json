@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/samx18/teleLin#readme",
   "dependencies": {
+    "request": "^2.80.0",
     "uscis": "0.0.4"
   }
 }
